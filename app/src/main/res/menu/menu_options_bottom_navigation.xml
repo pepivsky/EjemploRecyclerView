@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/page_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/text_favorites"/>
+    <item
+        android:id="@+id/page_ideas"
+        android:enabled="true"
+        android:icon="@drawable/ic_ideas"
+        android:title="@string/text_ideas"/>
+    <item
+        android:id="@+id/page_flights"
+        android:enabled="true"
+        android:icon="@drawable/ic_flight"
+        android:title="@string/text_flights" />
+
+</menu>
